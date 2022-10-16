@@ -1,8 +1,8 @@
 ---
 permalink: /philanthropy/
-title: "Philanthropy"
+title: "Philanthropy-Activism"
 ---
 
 - [Pragathi Alliance](https://www.pragathialliance.org/)
 - [AID India](https://aidindia.org/)
-- [350.org](https://350.org/)
+- [SODEWS](http://www.sodews.org/)
